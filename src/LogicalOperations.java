@@ -64,4 +64,11 @@ public class LogicalOperations {
         }
         return (float) sum/(max - start + 1);
     }
+    //public void tipar(String start, int max){
+     //   start =*;
+     //   max =*******;
+     //   for(int i=start;i<=max;i++){
+
+   //     }
+  //  }
 }
